@@ -63,8 +63,8 @@ max-width: 25rem;
     max-height: 90%;
   }
   .clubllogo{
-    width: 12%;
-    height: 10%;
+    max-width: 10%;
+    /* max-height: 5%; */
   }
 
   .groupCard {
