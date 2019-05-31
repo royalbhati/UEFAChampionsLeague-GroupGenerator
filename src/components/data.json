@@ -1,0 +1,142 @@
+[{
+    "name": "Shakhtar Donetsk",
+    "country": "Ukraine",
+    "logo":"https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/FC_Shakhtar_Donetsk.svg/180px-FC_Shakhtar_Donetsk.svg.png"
+  },
+  {
+    "name": "Malmö FF",
+    "country": "Sweden",
+    "logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Malm%C3%B6_FF_Logo.png/410px-Malm%C3%B6_FF_Logo.png"
+
+  }, {
+    "name": "Paris Saint G",
+    "country": "France",
+    "winner":true,
+    "logo":"http://www.stickpng.com/assets/images/580b57fcd9996e24bc43c4d8.png"
+  },
+  {
+    "name": "Real Madrid",
+    "country": "Spain",
+    "logo":"https://www.pinclipart.com/picdir/big/87-878081_logo-real-madrid-vector-clipart.png"
+  }, {
+    "name": "Man. United",
+    "country": "England",
+    "logo":"http://www.stickpng.com/assets/images/580b57fcd9996e24bc43c4e7.png"
+   }, {
+    "name": "CSKA Moskva",
+    "country": "Russia",
+    "logo":"https://upload.wikimedia.org/wikipedia/en/thumb/2/26/PFK_CSKA_Logo.svg/800px-PFK_CSKA_Logo.svg.png"
+   }, {
+    "name": "PSV Eindhoven",
+    "country": "Netherlands",
+    "winner":true,
+    "logo":"https://upload.wikimedia.org/wikipedia/en/thumb/0/05/PSV_Eindhoven.svg/1024px-PSV_Eindhoven.svg.png"
+  }, {
+    "name": "VfL Wolfsburg",
+    "country": "Germany",
+    "logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Logo-VfL-Wolfsburg.svg/800px-Logo-VfL-Wolfsburg.svg.png"
+  }, {
+    "name": "Atlético",
+    "country": "Spain",
+    "logo":"https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Atletico_Madrid_2017_logo.svg/170px-Atletico_Madrid_2017_logo.svg.png"
+  }, {
+    "name": "Astana",
+    "country": "Kazakhstan",
+    "logo":"https://upload.wikimedia.org/wikipedia/en/thumb/3/3f/Astana_Football_Club_logo.svg/220px-Astana_Football_Club_logo.svg.png"
+   }, {
+    "name": "Galatasaray",
+    "country": "Turkey",
+    "logo":"https://upload.wikimedia.org/wikipedia/en/thumb/3/31/Galatasaray_Star_Logo.svg/175px-Galatasaray_Star_Logo.svg.png"
+  }, {
+    "name": "Benfica",
+    "country": "Portugal",
+    "winner":true,
+    "logo":"https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/SL_Benfica_logo.svg/220px-SL_Benfica_logo.svg.png"
+  }, {
+    "name": "Juventus",
+    "country": "Italy",
+    "winner":true,
+    "logo":"https://logos-download.com/wp-content/uploads/2016/05/Juventus_FC_logo_logotype-429x700.png"
+  }, {
+    "name": "Manchester City",
+    "country": "England",
+    "logo":"https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Manchester_City_FC_badge.svg/200px-Manchester_City_FC_badge.svg.png"
+  },{
+    "name": "Sevilla",
+    "country": "Spain",
+    "logo":"https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Sevilla_FC_logo.svg/200px-Sevilla_FC_logo.svg.png"
+  }, {
+    "name": "Mönchengladbach",
+    "country": "Germany",
+    "logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Borussia_M%C3%B6nchengladbach_logo.svg/160px-Borussia_M%C3%B6nchengladbach_logo.svg.png"
+  }, {
+    "name": "AS Roma",
+    "country": "Italy",
+    "logo":"https://upload.wikimedia.org/wikipedia/en/thumb/f/f7/AS_Roma_logo_%282017%29.svg/200px-AS_Roma_logo_%282017%29.svg.png"
+  }, {
+    "name": "Leverkusen",
+    "country": "Germany",
+    "logo":"https://upload.wikimedia.org/wikipedia/en/thumb/5/59/Bayer_04_Leverkusen_logo.svg/230px-Bayer_04_Leverkusen_logo.svg.png"
+  },{
+    "name": "BATE",
+    "country": "Belarus",
+    "logo":"https://cdn.freebiesupply.com/logos/large/2x/bate-1-logo-png-transparent.png"
+  }, {
+    "name": "Arsenal",
+    "country": "England",
+    "logo":"https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Arsenal_FC.svg/180px-Arsenal_FC.svg.png"
+  }, {
+    "name": "Bayern München",
+    "country": "Germany",
+    "winner":true,
+    "logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/FC_Bayern_M%C3%BCnchen_logo_%282017%29.svg/220px-FC_Bayern_M%C3%BCnchen_logo_%282017%29.svg.png"
+  }, {
+    "name": "Dinamo Zagreb",
+    "country": "Croatia",
+    "logo":"https://upload.wikimedia.org/wikipedia/en/thumb/8/87/GNK_Dinamo_Zagreb.svg/200px-GNK_Dinamo_Zagreb.svg.png"
+  }, {
+    "name": "Olympiacos",
+    "country": "Greece",
+    "logo":"https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/Olympiacos_FC_logo.svg/200px-Olympiacos_FC_logo.svg.png  "
+  }, {
+    "name": "Chelsea",
+    "country": "England",
+    "winner":true,
+    "logo":"https://cdn.freebiesupply.com/logos/large/2x/chelsea-fc-2-logo-png-transparent.png"
+  }, {
+    "name": "Dynamo Kyiv",
+    "country": "Ukraine",
+    "logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/FC_Dynamo_Kyiv_logo.svg/150px-FC_Dynamo_Kyiv_logo.svg.png"
+  }, {
+    "name": "FC Porto",
+    "country": "Portugal",
+    "logo":"https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/FC_Porto.svg/170px-FC_Porto.svg.png"
+  },{
+    "name": "M.Tel-Aviv ",
+    "country": "Israel",
+    "logo":"https://upload.wikimedia.org/wikipedia/ro/thumb/9/97/FC_Maccabi_Tel-Aviv_logo.png/220px-FC_Maccabi_Tel-Aviv_logo.png"
+  }, {
+    "name": "Barca",
+    "country": "Spain",
+    "winner":true,
+    "logo":"http://pngimg.com/uploads/fcb_logo/fcb_logo_PNG25.png"
+  }, {
+    "name": "KAA Gent",
+    "country": "Belgium",
+    "logo":"https://upload.wikimedia.org/wikipedia/sco/thumb/f/f4/KAA_Gent_logo.svg/249px-KAA_Gent_logo.svg.png"
+  }, {
+    "name": "Lyonnais",
+    "country": "France",
+    "logo":"https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/Olympique_Lyonnais.svg/160px-Olympique_Lyonnais.svg.png  "
+  }, {
+    "name": "Valencia",
+    "country": "Spain",
+    "logo":"https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Valenciacf.svg/220px-Valenciacf.svg.png"
+  },
+  {
+    "name": "FC Zenit",
+    "country": "Russia",
+    "winner":true,
+    "logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FC_Zenit_1_star_2015_logo.png/220px-FC_Zenit_1_star_2015_logo.png"
+  }
+]
