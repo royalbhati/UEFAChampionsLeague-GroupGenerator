@@ -2,11 +2,17 @@
 @import '~antd/dist/antd.css';
 @import url('https://fonts.googleapis.com/css?family=Raleway|Work+Sans&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Quicksand&display=swap');
+
 body {
-  background-image:url("wall3.jpeg") !important
+  margin-top: 0px !important;
+  background-image: url("wallp.jpg") !important;
+  /* height: 100%; */
 
+  /* Center and scale the image nicely */
+  background-position: center;
+  /* background-repeat: no-repeat; */
+  background-size: cover;
 }
-
 
 .card-header{
   text-align: center;
@@ -32,15 +38,13 @@ max-height: 15rem;
 max-width: 25rem;
 
 }
-.ant-menu-item .ant-menu{
-  background-image: url("http://getwallpapers.com/wallpaper/full/8/0/7/1195759-free-uefa-champions-league-wallpaper-hd-1920x1080-smartphone.jpg") !important
-  /* background: #001529 !important; */
-  /* width: 100% !important */
-}
+
+
+
 .ant-layout-content {
   margin-top: 0px !important;
   background-image: url("wallp.jpg") !important;
-  height: 100%;
+  /* height: 100%; */
 
   /* Center and scale the image nicely */
   background-position: center;

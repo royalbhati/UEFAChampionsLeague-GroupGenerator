@@ -77,6 +77,7 @@ export default class dashboard extends Component {
             }
 
             let totalTeams = 0
+           // eslint-disable-next-line
             group.map(el => { el.map(elem => { totalTeams = totalTeams + 1 }) })
 
             if (totalTeams < 32) {
