@@ -80,10 +80,12 @@ max-width: 25rem;
 }
 
 .logo{
-  width: 12%;
-  /* max-width: 40%; */
+  /* max-width: 12%; */
+  /* width:12%; */
+  max-height: 10rem;
+  /* max-height: 20%; */
+  /* object-fit: cover; */
   /* height: auto; */
-  object-fit: contain;
   -webkit-filter: drop-shadow(5px 5px 5px rgb(131, 127, 127));
   filter: drop-shadow(2px 2px 2px rgb(251, 247, 247));
   -webkit-animation-duration: 1s;
@@ -121,7 +123,7 @@ max-width: 25rem;
   font-family: 'Quicksand', sans-serif;
 }
 
-@media screen and (min-width: 300px) and (max-width: 420px) {
+/* @media screen and (min-width: 300px) and (max-width: 420px) {
 
 .logo{
   width: 55%;
@@ -133,9 +135,15 @@ max-width: 25rem;
   .logo{
     width: 55%;
   }
-  }
+  } */
 
+.logoDiv{
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  object-fit: contain
 
+}
 /* @media (max-width: 682px) {
 
   .logo{

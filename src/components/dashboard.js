@@ -113,7 +113,9 @@ export default class dashboard extends Component {
             <div>
                 <Layout>
                     <Nav>
+                        <div className="logoDiv">
                         <img className="logo bounce" onClick={() => this.onclick()} src={require('../logo2.png')} alt="logo" />
+                        </div>
                     </Nav>
                     <div style={{ textAlign: 'center' }}>
                         <p className="infoText">click on the uefa logo for another set of groups</p>
